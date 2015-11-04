@@ -1,3 +1,3 @@
-The Odin Project <br>
+<b>The Odin Project</b> <br>
 HTML/CSS: google-homepage <br>
-http://www.theodinproject.com/web-development-101/html-css
+<a href="http://www.theodinproject.com/web-development-101/html-css"> Project Link </a>
